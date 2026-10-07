@@ -1,0 +1,756 @@
+# Auto-generated — do not edit manually
+# Updated: 2026-10-07T11:32:51.819Z
+
+documents:
+  - path: docs/oneadvancedlegal-pcms/Execution/iq-legal-announces-the-launch-of-dedicated-scottish-accounts/1.law-society-of-scotland-accounts-rules-engine.epic.md
+    id: 0424c2fc-1caf-4aba-ab48-c9e3f23044cd
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: iq-legal-announces-the-launch-of-dedicated-scottish-accounts.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/workflow-utility-and-cmi-and-apim/3.unified-task-home-screen.epic.md
+    id: 054f3753-5ddc-4c55-bd40-0e78c99bc1fd
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: workflow-utility-and-cmi-and-apim.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/launch-of-automated-legal-aid-agency-laa-family-fixed-fee/4.legal-forms-claim-1a-document-integration.epic.md
+    id: 06be211f-498d-4acc-887e-b9aab7bfccc0
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: launch-of-automated-legal-aid-agency-laa-family-fixed-fee.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/classic-outlook-add-in/2.classic-outlook-compose-metadata-filing.epic.md
+    id: 0af64288-d587-46a2-82ac-e23fe6dca509
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: classic-outlook-add-in.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-now-offers-ready-made-debt-recovery-workflows-with-integrated-third-party-portal-connections.pr.md
+    id: 0badf806-aa88-4967-a0f0-87e158c02d2b
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q3 FY28
+    targetDate: 2027-11-30
+  - path: docs/oneadvancedlegal-pcms/Execution/launch-of-automated-legal-aid-agency-laa-family-fixed-fee/5.document-history-persistence-sqm-limit-integration.epic.md
+    id: 0c3ff5a4-8af4-4b27-9fa4-511db73d289e
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: launch-of-automated-legal-aid-agency-laa-family-fixed-fee.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/time-capture-eliminates-manual-timesheet-building-by-automatically-drafting-fee-earner-timesheets-from-real-time-work-activity-tracking.pr.md
+    id: 0d5c8b05-848b-4c6d-a929-35df55f230f3
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q2 FY28
+    targetDate: 2027-08-31
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-schema-harmonisation-spike/1.automated-ci-cd-deployment-pipeline-optimization.epic.md
+    id: 0ea2ccd1-2d1a-41ab-afca-1da3bd146a1e
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-schema-harmonisation-spike.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/classic-outlook-add-in/5.cross-platform-validation-manifest-publishing.epic.md
+    id: 0f25caab-d327-4b8d-8f56-8baa5603569a
+    category: epic
+    status: Draft
+    parent_press_release: classic-outlook-add-in.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/classic-outlook-add-in.pr.md
+    id: 1185a337-1967-44f8-a024-74ebfd1485ee
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q3 FY27
+    targetDate: 2026-11-30
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-now-integrates-with-scribe-enabling-fee-earners-to-launch-recordings-directly-within-the-practice-management-interface-and-automatically-capture-transcripts-into-client-and-matter-records/3.automated-transcript-ingestion-sharepoint-document-routing.epic.md
+    id: 1338469a-0fd2-4300-b254-1de922bf1b6e
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: L
+    parent_press_release: pcms-now-integrates-with-scribe-enabling-fee-earners-to-launch-recordings-directly-within-the-practice-management-interface-and-automatically-capture-transcripts-into-client-and-matter-records.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-schema-harmonisation-spike/4.automated-schema-drift-detection-and-release-telemetry-harness.epic.md
+    id: 16880c2c-2c74-480b-a1a4-f1744e36cd45
+    category: epic
+    status: Draft
+    moscow: Should
+    tshirt: S
+    parent_press_release: pcms-schema-harmonisation-spike.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/launch-of-automated-legal-aid-agency-laa-family-fixed-fee/3.claim-1a-xml-payload-generation-export.epic.md
+    id: 1935d3bf-63a6-4186-8719-11486a99745c
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: launch-of-automated-legal-aid-agency-laa-family-fixed-fee.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-schema-harmonisation-spike/2.multi-instance-database-schema-standardization-spike.epic.md
+    id: 1f6c47cc-d6d1-49cb-bc00-128cdc8f994a
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-schema-harmonisation-spike.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/iq-legal-announces-enterprise-accounts-billing-improvement.pr.md
+    id: 205c7fdd-c4a6-46ae-9ab0-eaf76dc92781
+    category: press-release
+    status: Draft
+    tshirt: L
+    period: Q4 FY27
+    targetDate: 2027-02-28
+  - path: docs/oneadvancedlegal-pcms/Execution/sprint-18-bundledocs-integration-technical-discovery.pr.md
+    id: 21079068-ae6e-4b6f-b2b0-c8de01ab776c
+    category: press-release
+    status: Draft
+    tshirt: XS
+    period: Q3 FY27
+    targetDate: 2026-11-30
+  - path: docs/oneadvancedlegal-pcms/Execution/sprint-18-bundledocs-integration-technical-discovery/1.bundledocs-oauth2-tenant-configuration.epic.md
+    id: 24c786b3-547d-4fe9-8e6d-8d858ddf966f
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: S
+    parent_press_release: sprint-18-bundledocs-integration-technical-discovery.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-performance/4.resilient-composite-api-framework-rate-management.epic.md
+    id: 29799ed6-a16a-4d08-9c3a-e9452c7c0d8a
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-performance.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-scales-to-350-users/4.document-generation-async-offload-service-extraction.epic.md
+    id: 2e6011f9-9bdb-49fc-95d2-f3850d6ba351
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: L
+    parent_press_release: pcms-scales-to-350-users.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-performance/1.database-indexing-query-optimization.epic.md
+    id: 300569f1-8fb4-4310-a016-699ee66f593e
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-performance.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/workflow-utility-and-cmi-and-apim/5.workflow-engine-hardening-defect-remediation.epic.md
+    id: 30b1ce90-d52e-4f5f-8382-7b54ad538265
+    category: epic
+    status: Draft
+    moscow: Should
+    tshirt: M
+    parent_press_release: workflow-utility-and-cmi-and-apim.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/perfect-portal-pcms-integration-specification.pr.md
+    id: 318c3b5f-38c4-4838-8698-eecb5de1338d
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q4 FY27
+    targetDate: 2027-02-28
+  - path: docs/oneadvancedlegal-pcms/Execution/legal-firms-can-now-message-clients-directly-via-whatsapp-and-sms-from-workflows-keeping-conversations-secure-and-documented-on-the-matter-file.pr.md
+    id: 385e7710-bfcb-4a60-899a-7ba08c9435d2
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q1 FY28
+    targetDate: 2027-05-31
+  - path: docs/oneadvancedlegal-pcms/Execution/automated-agentic-client-onboarding-eliminates-manual-compliance-chasing-accelerating-matter-inception-for-uk-law-firms.pr.md
+    id: 3caef166-df15-433a-b994-449811b61301
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q1 FY28
+    targetDate: 2027-05-31
+  - path: docs/oneadvancedlegal-pcms/Execution/intelligent-debt-recovery-agents-now-automate-case-workflows-while-teams-retain-control-of-critical-decisions.pr.md
+    id: 40d9c8a1-6cfd-42fe-bcbd-653444cc4fcb
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q4 FY28
+    targetDate: 2028-02-29
+  - path: docs/oneadvancedlegal-pcms/Execution/enterprise-firms-now-automate-client-money-management-with-open-banking-enabled-accounts-reconciliation.pr.md
+    id: 4132daf8-6fdf-4d3e-af2b-81a1f5214f7c
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q3 FY28
+    targetDate: 2027-11-30
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-now-integrates-with-scribe-enabling-fee-earners-to-launch-recordings-directly-within-the-practice-management-interface-and-automatically-capture-transcripts-into-client-and-matter-records/2.in-matter-scribe-launch-recording-controls.epic.md
+    id: 438fde6f-d3eb-47e5-b3ce-7c90ff801d75
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-now-integrates-with-scribe-enabling-fee-earners-to-launch-recordings-directly-within-the-practice-management-interface-and-automatically-capture-transcripts-into-client-and-matter-records.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/heal-desk-remediation-quality-of-life-improvements.pr.md
+    id: 45431c03-efaf-48ab-9c68-e74a1c09eb28
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q4 FY27
+    targetDate: 2027-02-28
+  - path: docs/oneadvancedlegal-pcms/Execution/workflow-utility-and-cmi-and-apim/2.ai-powered-workflow-generation-from-legacy-cms.epic.md
+    id: 47318bd0-2623-41bf-907f-d9de10d42492
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: L
+    parent_press_release: workflow-utility-and-cmi-and-apim.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/iq-legal-announces-enterprise-accounts-billing-improvement/1.purchase-ledger-approval-routing-and-invoice-attachments.epic.md
+    id: 4829b68a-6165-416a-a308-5dcdf4a660de
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: iq-legal-announces-enterprise-accounts-billing-improvement.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/announcing-changes-legal-help-inquest-work-codes-and-fees.pr.md
+    id: 4d59d909-59e7-4cf2-9cd0-e1afea864e2a
+    category: press-release
+    status: Blocked
+    tshirt: M
+    period: Q1 FY28
+    targetDate: 2027-05-31
+  - path: docs/oneadvancedlegal-pcms/Execution/conveyancing-acc-pack-creation/4.re-mortgage-workflow-and-partner-integrations.epic.md
+    id: 4f0de281-3ec8-4968-bcb0-866e18d26824
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: conveyancing-acc-pack-creation.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-launches-integration-with-bundledocs.pr.md
+    id: 5187d604-1d5d-4e6a-a6bd-02e3be1863d9
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q4 FY27
+    targetDate: 2027-02-28
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-performance/2.dynamic-microservice-auto-scaling-resource-management.epic.md
+    id: 53d7f490-8084-4a02-a15e-078af672f7a5
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-performance.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/intelligent-agents-now-automate-routine-personal-injury-tasks-freeing-fee-earners-to-focus-on-case-strategy-and-client-advice.pr.md
+    id: 5687b7eb-0ec7-4a22-a8ee-c1adaee5633b
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q3 FY28
+    targetDate: 2027-11-30
+  - path: docs/oneadvancedlegal-pcms/Execution/sprint-18-bundledocs-integration-technical-discovery/2.sharepoint-bundledocs-document-streaming-service.epic.md
+    id: 57562c69-f865-43cf-922f-6b68de955f86
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: sprint-18-bundledocs-integration-technical-discovery.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-schema-harmonisation-spike/3.apim-composable-xml-framework-modernization.epic.md
+    id: 575ba7af-837c-40ad-b9e9-c6753183ae4f
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-schema-harmonisation-spike.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/heal-desk-resolution-eliminates-everyday-friction-with-targeted-usability-improvements-designed-to-keep-practices-running-smoothly.pr.md
+    id: 59d69638-9f05-44c3-9bcd-d4a3c8d737b3
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q1 FY28
+    targetDate: 2027-05-31
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-schema-harmonisation-spike.pr.md
+    id: 5add07be-88bf-4c2a-b0e0-fc99d62429d4
+    category: press-release
+    status: Draft
+    tshirt: S
+    period: Q3 FY27
+    targetDate: 2026-11-30
+  - path: docs/oneadvancedlegal-pcms/Execution/ai-powered-engagement-terms-drafting-agent-eliminates-manual-letter-composition-accelerating-client-onboarding-and-protecting-fee-earner-billable-time.pr.md
+    id: 5f7b6852-166e-46bf-bfbc-d05ebcbcfad9
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q4 FY28
+    targetDate: 2028-02-29
+  - path: docs/oneadvancedlegal-pcms/Execution/conveyancing-acc-pack-creation/2.purchase-workflow-api-suite.epic.md
+    id: 60df284d-784b-423e-b3c7-85abf8d0877a
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: L
+    parent_press_release: conveyancing-acc-pack-creation.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/iq-legal-announces-the-launch-of-dedicated-scottish-accounts/2.segregated-invested-client-funds-icf-ledger.epic.md
+    id: 62c20e68-3352-4979-b8a0-c0cbaef373be
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: iq-legal-announces-the-launch-of-dedicated-scottish-accounts.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-now-integrates-with-scribe-enabling-fee-earners-to-launch-recordings-directly-within-the-practice-management-interface-and-automatically-capture-transcripts-into-client-and-matter-records/5.in-matter-transcript-review-precedent-assembly-integration.epic.md
+    id: 666ad87b-351c-47d7-93e5-34b57c08438c
+    category: epic
+    status: Draft
+    moscow: Should
+    tshirt: M
+    parent_press_release: pcms-now-integrates-with-scribe-enabling-fee-earners-to-launch-recordings-directly-within-the-practice-management-interface-and-automatically-capture-transcripts-into-client-and-matter-records.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/legal-iq-architectural-blueprint-finalized-forms-time-capture-and-pcms-integration-framework-agreed.pr.md
+    id: 6f14cd53-d5d9-4d9a-bdce-5c04b917a20f
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q4 FY27
+    targetDate: 2027-02-28
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-time-capture-and-legal-forms-migrate-to-unified-agentic-ready-platform-with-enhanced-security-and-microsoft-365-mcp-integration.pr.md
+    id: 71703ce1-05c4-4ec4-a3d4-3eea968014d8
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q1 FY28
+    targetDate: 2027-05-31
+  - path: docs/oneadvancedlegal-pcms/Execution/launch-of-automated-legal-aid-agency-laa-family-fixed-fee/1.family-fixed-fee-matter-configuration-claim-data-capture.epic.md
+    id: 7578602e-f308-42d7-ac80-69688c39f94b
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: launch-of-automated-legal-aid-agency-laa-family-fixed-fee.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-performance/3.distributed-redis-caching-for-matter-files-timelines.epic.md
+    id: 76a42caa-c666-4714-8399-43130b35284d
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-performance.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/legal-hr-and-payroll-practitioners-access-pcms-time-capture-and-cross-practice-functions-through-a-single-unified-intelligent-experience-eliminating-login-fragmentation-and-manual-handoffs.pr.md
+    id: 7de18db8-4360-4fa7-a536-c0392441a93b
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q2 FY28
+    targetDate: 2027-08-31
+  - path: docs/oneadvancedlegal-pcms/Execution/byobi-data-and-views-hcb-unlock/5.financial-reconciliation-and-byobi-validation-suite.epic.md
+    id: 856e1275-8066-4d27-9677-16c835c117b2
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: byobi-data-and-views-hcb-unlock.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-launches-integration-with-bundledocs/2.sharepoint-document-streaming-bundle-provisioning.epic.md
+    id: 8a3835c1-1e49-4072-98c2-9de764fbf881
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-launches-integration-with-bundledocs.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/heal-desk-remediation-quality-of-life-improvements/1.probate-reports-suite-implementation.epic.md
+    id: 8b65761c-52c4-4be1-9bed-157e928690fc
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: heal-desk-remediation-quality-of-life-improvements.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/integrated-digital-payment-collection-cuts-billing-to-cash-cycle-and-eliminates-manual-debt-chasing-for-uk-legal-practices.pr.md
+    id: 8d722fe9-b6bd-4085-a83f-37a93aaeb3d3
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q2 FY28
+    targetDate: 2027-08-31
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-legal-forms-and-time-capture-extend-enterprise-architectural-consistency-across-the-platform-unlocking-future-capability-roadmap.pr.md
+    id: 905a1636-5b57-4c49-af15-81b9bf1dea9b
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q2 FY28
+    targetDate: 2027-08-31
+  - path: docs/oneadvancedlegal-pcms/Execution/perfect-portal-pcms-integration-specification/4.bidirectional-client-data-synchronisation.epic.md
+    id: 90f6021a-936c-40a9-87b0-27d88279fe90
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: perfect-portal-pcms-integration-specification.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-scales-to-350-users/5.horizontal-scaling-multi-instance-infrastructure.epic.md
+    id: 9362d5fa-e379-41ce-b951-f4ab67610c18
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-scales-to-350-users.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/byobi-data-and-views-hcb-unlock/3.client-and-disbursement-ledger-financial-models.epic.md
+    id: 95218414-bf80-4eb1-bda9-9eaf8a0253ab
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: byobi-data-and-views-hcb-unlock.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-scales-to-350-users/2.database-stored-procedure-optimization-hot-path-tuning.epic.md
+    id: 979fda3f-9db1-46ea-8d47-5e8a9c30c5e9
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-scales-to-350-users.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-launches-integration-with-bundledocs/3.document-history-ui-bundledocs-editor-launch.epic.md
+    id: 9a04b785-80e4-4938-bb02-a693e5c6fbb7
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-launches-integration-with-bundledocs.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/conveyancing-acc-pack-creation/3.sale-workflow-api-suite.epic.md
+    id: 9bfe35f7-c0e9-44c0-b725-74f4c005f4d8
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: conveyancing-acc-pack-creation.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/conveyancing-teams-now-deploy-ai-agents-to-handle-routine-transaction-tasks-freeing-fee-earners-to-focus-on-high-judgement-work.pr.md
+    id: a604c4c3-dfbc-479f-bbc6-da2ad28bf311
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q2 FY28
+    targetDate: 2027-08-31
+  - path: docs/oneadvancedlegal-pcms/Execution/iq-now-integrates-legal-research-from-harvey-legora-and-lexisnexis-enabling-fee-earners-to-conduct-research-without-leaving-the-platform.pr.md
+    id: a6301796-2771-41e5-a092-21e1f45d56fa
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q3 FY28
+    targetDate: 2027-11-30
+  - path: docs/oneadvancedlegal-pcms/Execution/perfect-portal-pcms-integration-specification/1.integration-configuration-and-authentication.epic.md
+    id: a675449b-a23e-4cbb-ba9e-c8a20480040e
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: perfect-portal-pcms-integration-specification.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/conveyancing-acc-pack-creation/5.automated-completion-monies-and-postings.epic.md
+    id: a916837d-fcee-414d-96a2-604f39d7309c
+    category: epic
+    status: Draft
+    moscow: Could
+    tshirt: S
+    parent_press_release: conveyancing-acc-pack-creation.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/classic-outlook-add-in/1.runtime-platform-detection-host-routing.epic.md
+    id: ace2296f-44d0-4361-8a01-ac76a638d45b
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: classic-outlook-add-in.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-launches-integration-with-bundledocs/1.bundledocs-cloud-api-oauth2-service.epic.md
+    id: ad176281-04fc-4ea9-8b31-3571e8fd5231
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-launches-integration-with-bundledocs.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-now-integrates-with-scribe-enabling-fee-earners-to-launch-recordings-directly-within-the-practice-management-interface-and-automatically-capture-transcripts-into-client-and-matter-records.pr.md
+    id: ad1c9177-8f2f-4dd9-9485-2038fbde7d5b
+    category: press-release
+    status: Blocked
+    tshirt: M
+    period: Q4 FY27
+    targetDate: 2027-02-28
+  - path: docs/oneadvancedlegal-pcms/Execution/conveyancing-acc-pack-creation/1.common-conveyancing-api-foundation.epic.md
+    id: b559aa86-e800-4992-b509-e7af6fff1835
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: L
+    parent_press_release: conveyancing-acc-pack-creation.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/introducing-autonomous-billing-and-time-narrative-agents-faster-clearer-bills-with-fewer-client-queries.pr.md
+    id: b5a5a341-cea6-4d04-9d46-e9711737480d
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q2 FY28
+    targetDate: 2027-08-31
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-performance.pr.md
+    id: b5e71d72-be57-478c-a5cd-3500a238494c
+    category: press-release
+    status: Draft
+    tshirt: L
+    period: Q3 FY27
+    targetDate: 2026-11-30
+  - path: docs/oneadvancedlegal-pcms/Execution/classic-outlook-add-in/4.exchange-sync-service-reliability-scale.epic.md
+    id: ba031c73-f84b-4e0a-b968-e341328bb430
+    category: epic
+    status: Draft
+    parent_press_release: classic-outlook-add-in.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-scales-to-350-users/1.dashboard-performance-pre-calculated-read-models.epic.md
+    id: bbc892b7-4dba-4406-8ed0-15cde50ef8ac
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: L
+    parent_press_release: pcms-scales-to-350-users.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/launch-of-automated-legal-aid-agency-laa-family-fixed-fee/2.laa-business-rules-validation-engine.epic.md
+    id: bc6857a5-2f4c-4900-a4b6-3f7abe2402e4
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: launch-of-automated-legal-aid-agency-laa-family-fixed-fee.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/workflow-utility-and-cmi-and-apim.pr.md
+    id: bdcb1346-8e0c-4dbd-899c-7ad17dd8d4da
+    category: press-release
+    status: Draft
+    tshirt: L
+    period: Q3 FY27
+    targetDate: 2026-11-30
+  - path: docs/oneadvancedlegal-pcms/Execution/perfect-portal-pcms-integration-specification/6.matter-keystage-progression-visibility.epic.md
+    id: bfcfc42c-3342-47af-abdd-32d0cd7ec908
+    category: epic
+    status: Draft
+    moscow: Could
+    tshirt: S
+    parent_press_release: perfect-portal-pcms-integration-specification.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/perfect-portal-pcms-integration-specification/5.client-document-ingestion-and-filing.epic.md
+    id: c0cf4767-f9f9-4be9-b12e-e7ff3ea3744e
+    category: epic
+    status: Draft
+    moscow: Should
+    tshirt: M
+    parent_press_release: perfect-portal-pcms-integration-specification.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/practice-managers-can-now-build-and-customize-ai-powered-workflows-without-waiting-for-services-engagement-enabling-firms-to-adapt-automation-to-their-unique-processes.pr.md
+    id: c23ac8bb-1005-4fb9-8c44-d23342793218
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q1 FY28
+    targetDate: 2027-05-31
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-now-integrates-seamlessly-with-netdocuments-and-imanage-keep-one-document-repository-stop-hunting-across-systems.pr.md
+    id: c2599f25-83bf-4d2d-b1f1-51a9903cea5b
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q3 FY28
+    targetDate: 2027-11-30
+  - path: docs/oneadvancedlegal-pcms/Execution/enterprise-grade-accounts-and-workflow-capabilities-for-complex-multi-jurisdictional-legal-practices-now-available.pr.md
+    id: c8ddcee5-0e90-4ab8-8b7b-061b2438510d
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q1 FY28
+    targetDate: 2027-05-31
+  - path: docs/oneadvancedlegal-pcms/Execution/ai-powered-matter-progress-tracking-and-automated-client-updates-via-whatsapp-and-sms.pr.md
+    id: c9dcff19-0890-4f8b-a3bf-9413fd080ca8
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q3 FY28
+    targetDate: 2027-11-30
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-now-integrates-with-scribe-enabling-fee-earners-to-launch-recordings-directly-within-the-practice-management-interface-and-automatically-capture-transcripts-into-client-and-matter-records/4.multi-jurisdiction-compliance-audit-trail-governance.epic.md
+    id: c9eba4d4-26dd-4286-b5d1-22a073c17510
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-now-integrates-with-scribe-enabling-fee-earners-to-launch-recordings-directly-within-the-practice-management-interface-and-automatically-capture-transcripts-into-client-and-matter-records.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/automated-collections-agent-reduces-time-chasing-unpaid-bills-and-accelerates-cash-flow-for-legal-practices.pr.md
+    id: ca622c9a-b8e5-4844-bc0e-0e9ea7925dbc
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q4 FY28
+    targetDate: 2028-02-29
+  - path: docs/oneadvancedlegal-pcms/Execution/perfect-portal-pcms-integration-specification/2.real-time-quote-conflict-checking.epic.md
+    id: cb6a964d-ad10-4935-93b0-407d378f51fa
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: perfect-portal-pcms-integration-specification.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-now-integrates-with-scribe-enabling-fee-earners-to-launch-recordings-directly-within-the-practice-management-interface-and-automatically-capture-transcripts-into-client-and-matter-records/1.scribe-api-gateway-integration-settings.epic.md
+    id: cc1b1343-53bc-408d-b2e6-5e18d32f234e
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-now-integrates-with-scribe-enabling-fee-earners-to-launch-recordings-directly-within-the-practice-management-interface-and-automatically-capture-transcripts-into-client-and-matter-records.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-performance/6.real-time-telemetry-performance-monitoring-infrastructure.epic.md
+    id: ceec3639-3254-4ae8-ab75-117226b65cfc
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-performance.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-performance/5.high-concurrency-load-testing-scalability-verification.epic.md
+    id: d13c0bb4-a181-43b5-8e87-ae19811165bd
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-performance.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/workflow-utility-and-cmi-and-apim/1.accelerator-packs-for-inception.epic.md
+    id: d178bf50-0822-4c7b-bd72-61613f1ab833
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: L
+    parent_press_release: workflow-utility-and-cmi-and-apim.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/iq-legal-announces-the-launch-of-dedicated-scottish-accounts.pr.md
+    id: d4540c01-4ffe-49c5-be82-cfcb5a4373c4
+    category: press-release
+    status: Blocked
+    tshirt: L
+    period: Q4 FY27
+    targetDate: 2027-02-28
+  - path: docs/oneadvancedlegal-pcms/Execution/iq-legal-announces-the-launch-of-dedicated-scottish-accounts/5.slab-accounting-audit-trail-reporting.epic.md
+    id: d9f32825-a2e8-448f-b574-774cc8be88ff
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: iq-legal-announces-the-launch-of-dedicated-scottish-accounts.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/sprint-18-bundledocs-integration-technical-discovery/3.document-history-bundledocs-launch-workflow.epic.md
+    id: dcc6bb20-823c-45ac-8fd8-6cda5f350a87
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: sprint-18-bundledocs-integration-technical-discovery.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/byobi-data-and-views-hcb-unlock/4.aged-debtors-model-and-dim-bledger-enhancements.epic.md
+    id: ddbc1b23-5592-40a2-9e5f-a8f266ee33b7
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: byobi-data-and-views-hcb-unlock.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-scales-to-350-users.pr.md
+    id: de7a2d73-831b-49c9-baa6-3c922f75ff3f
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q4 FY27
+    targetDate: 2027-02-28
+  - path: docs/oneadvancedlegal-pcms/Execution/iq-legal-announces-the-launch-of-dedicated-scottish-accounts/3.dual-jurisdiction-compliance-markers.epic.md
+    id: df59ea39-3139-427f-8c77-153f65b3291b
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: iq-legal-announces-the-launch-of-dedicated-scottish-accounts.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/iq-legal-announces-the-launch-of-dedicated-scottish-accounts/4.automated-open-banking-cashier-reconciliation.epic.md
+    id: e0ca6678-b109-4e2c-b6af-be7601421c04
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: iq-legal-announces-the-launch-of-dedicated-scottish-accounts.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/byobi-data-and-views-hcb-unlock.pr.md
+    id: e64a65d8-5f77-4601-95a1-1ba1a954e158
+    category: press-release
+    status: Draft
+    tshirt: L
+    period: Q3 FY27
+    targetDate: 2026-11-30
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-legal-forms-and-time-capture-achieve-frontier-certification-forms-migration-to-iq-accelerates-deep-customer-adoption.pr.md
+    id: e6b0267d-5cf2-457a-a894-b80297a1a74f
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q3 FY28
+    targetDate: 2027-11-30
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-scales-to-350-users/3.reporting-service-isolation-extraction.epic.md
+    id: e8edc3f9-139e-4483-b352-e96126031759
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: L
+    parent_press_release: pcms-scales-to-350-users.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/byobi-data-and-views-hcb-unlock/1.time-wip-and-disbursement-financial-models.epic.md
+    id: eaf1675b-608d-4437-9bf6-eb71061e0f2a
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: byobi-data-and-views-hcb-unlock.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/private-client-teams-now-draft-amend-and-complete-probate-in-one-connected-workflow.pr.md
+    id: ee9b5bca-5f90-4d89-a013-a7ec647dd2aa
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q1 FY28
+    targetDate: 2027-05-31
+  - path: docs/oneadvancedlegal-pcms/Execution/byobi-data-and-views-hcb-unlock/2.billing-payment-and-write-off-models.epic.md
+    id: ef430f57-3f73-4d9c-81ee-fdb3bcb7d7ca
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: byobi-data-and-views-hcb-unlock.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/launch-of-automated-legal-aid-agency-laa-family-fixed-fee.pr.md
+    id: ef9b8ed9-7f71-4279-b743-87f46cae6afc
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q4 FY27
+    targetDate: 2027-02-28
+  - path: docs/oneadvancedlegal-pcms/Execution/perfect-portal-pcms-integration-specification/3.quote-to-matter-conversion-and-deduplication.epic.md
+    id: f1fede43-9704-4bb2-ae03-c182d904b035
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: L
+    parent_press_release: perfect-portal-pcms-integration-specification.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/personal-injury-firms-now-launch-with-ready-made-workflows-and-instant-portal-connectivity.pr.md
+    id: f2d95941-23d0-4779-9613-ccb4069cb783
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q2 FY28
+    targetDate: 2027-08-31
+  - path: docs/oneadvancedlegal-pcms/Execution/practice-case-management-system-now-available-in-australia-and-new-zealand-with-full-local-compliance-and-regional-capabilities.pr.md
+    id: f372b8dc-e72a-48ff-8d92-896a0613ff96
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q4 FY28
+    targetDate: 2028-02-29
+  - path: docs/oneadvancedlegal-pcms/Execution/pcms-scales-to-350-users/6.platform-data-integrity-core-journey-hardening.epic.md
+    id: f8422336-2c9e-48d1-ad39-ff7b7756c986
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: pcms-scales-to-350-users.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/legal-professionals-can-now-query-firm-data-in-plain-english-while-maintaining-ethical-walls-and-sign-documents-digitally-with-qualified-electronic-signatures-all-within-a-single-secure-platform.pr.md
+    id: fa7e8fc1-5a8c-485d-80fe-fa9ed8be767d
+    category: press-release
+    status: Draft
+    tshirt: M
+    period: Q1 FY28
+    targetDate: 2027-05-31
+  - path: docs/oneadvancedlegal-pcms/Execution/classic-outlook-add-in/3.unified-billable-time-logging.epic.md
+    id: faa1af6e-a80c-4c40-b522-b7638df82d57
+    category: epic
+    status: Draft
+    moscow: Must
+    tshirt: M
+    parent_press_release: classic-outlook-add-in.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/sprint-18-bundledocs-integration-technical-discovery/4.bundling-compliance-audit-and-telemetry.epic.md
+    id: fd32bbc7-6822-4e69-a754-da6c74e9cdad
+    category: epic
+    status: Draft
+    moscow: Should
+    tshirt: S
+    parent_press_release: sprint-18-bundledocs-integration-technical-discovery.pr.md
+  - path: docs/oneadvancedlegal-pcms/Execution/conveyancing-acc-pack-creation.pr.md
+    id: fe265044-8c96-4bde-a92a-4ac7d9ecb446
+    category: press-release
+    status: Blocked
+    tshirt: M
+    period: Q4 FY27
+    targetDate: 2027-02-28
